@@ -583,10 +583,7 @@ VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm:
     minimum: 0.3
     maximum: 0.5
 
-  EP_size_x:
-    minimum: 2.95
-    nominal: 3.15
-    maximum: 3.25
+  EP_size_x: 3.15 +/- 0.1
   EP_size_y:
     minimum: 2.95
     nominal: 3.15
@@ -596,9 +593,7 @@ VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm:
   thermal_vias:
     count: [3, 3]
     drill: 0.2
-    paste_via_clearance: 0.1
-    EP_paste_coverage: 0.7
-    grid: [1.2, 1.2]
+    grid: [1.0, 1.0]
     paste_avoid_via: False
 
   pitch: 0.5
