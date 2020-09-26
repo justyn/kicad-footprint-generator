@@ -584,10 +584,7 @@ VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm:
     maximum: 0.5
 
   EP_size_x: 3.15 +/- 0.1
-  EP_size_y:
-    minimum: 2.95
-    nominal: 3.15
-    maximum: 3.25
+  EP_size_y: 3.15 +/- 0.1
   EP_num_paste_pads: [2, 2]
 
   thermal_vias:
