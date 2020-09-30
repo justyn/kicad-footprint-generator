@@ -584,7 +584,6 @@ VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm:
   thermal_vias:
     count: [3, 3]
     drill: 0.2
-    grid: [1.0, 1.0]
     paste_avoid_via: False
 
   pitch: 0.5
